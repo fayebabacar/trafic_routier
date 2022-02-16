@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TraficRoutier</string>
+    <string name="inscription">Inscription</string>
+    <string name="imei">Imei :</string>
+    <string name="sexe">Sexe :</string>
+    <string name="M">Masculin</string>
+    <string name="F">Feminin</string>
+    <string name="age">Age :</string>
+    <string name="creer">Creer</string>
+    <string name="button">Show</string>
+    <string name="pseudo">pseudo</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="pwd">Confirmer password</string>
+    <string name="text">Saisissez votre age</string>
+    <string name="title">welcome</string>
+    <string name="input">Saisissez votre age</string>
+</resources>

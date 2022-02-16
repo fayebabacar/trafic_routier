@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "324677238047",
+    "firebase_url": "https://traficroutier-64ed9.firebaseio.com",
+    "project_id": "traficroutier-64ed9",
+    "storage_bucket": "traficroutier-64ed9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324677238047:android:51f64a4a237ab7cc",
+        "android_client_info": {
+          "package_name": "com.example.traficroutier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324677238047-m81a8rhmfnfl4m9tptnpvq0apb3npgqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.traficroutier",
+            "certificate_hash": "6e8c6624f2e5475c3a9d47266d1d628663d9e2d8"
+          }
+        },
+        {
+          "client_id": "324677238047-vt1hvoist14b2kv5lv0e5qq5mk1l1ivp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkmLKULEn3G4qKkcJvdjycBHwBYTN5M-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324677238047-vt1hvoist14b2kv5lv0e5qq5mk1l1ivp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
